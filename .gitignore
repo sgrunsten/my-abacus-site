@@ -1,0 +1,24 @@
+# Sensitive Information
+*.env
+.env.local
+api-keys.txt
+private-notes.md
+personal-data/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Build & Dependencies
+node_modules/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
